@@ -1,0 +1,20 @@
+body {
+    background: white url("images/background2.png") no-repeat;
+    background-position: 50% 180px;
+    background-size: 27%;
+    height: 500px;
+    border-top: 0px solid #CCC;
+}
+div {
+    font-family: 'Parisienne';
+}
+
+
+title{
+    color: #c80;
+    font-weight: bold;
+}
+
+li a {
+    color: green;
+}

@@ -1,0 +1,9 @@
+body {
+    background: white url("images/pollsimage.png") no-repeat;
+    background-position: 75% 300px;
+    background-size: 20%;
+
+}
+li a {
+    color: #FF8000;
+}
